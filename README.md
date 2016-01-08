@@ -1,4 +1,4 @@
-# Mbtiles map viewer library
+# Mbtiles Map Viewer library
 
 Based on the deprecated Mapbox Android Legacy SDK which is no longer maintained.
 
