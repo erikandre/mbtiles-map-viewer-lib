@@ -1,7 +1,9 @@
-# Mapbox Android SDK
+# Mbtiles map viewer library
 
-**This SDK is deprecated** in favor of the [Mapbox Android SDK](https://www.mapbox.com/android-sdk/) 2.0.1 and above. The new Android SDK is the vector-based future of our rendering technology. For more information please see the [Mapbox Mobile](https://www.mapbox.com/mobile/) as well as [Mapbox GL project repository](https://github.com/mapbox/mapbox-gl-native/).
+Based on the deprecated Mapbox Android Legacy SDK which is no longer maintained.
 
-**NOTE: Unlimited, per-user Mapbox pricing plans cannot be used with this version of the Mapbox Android SDK.**
+## Project Goals
 
-See [this doc](README-old.md) for the original project details.
+* Modernize code base
+* Update and improve location handling (should be pluggable to allow using Google Play Services fused location provider)
+* Improve performance
